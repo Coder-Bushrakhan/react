@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useState } from "react";
 import { Agent } from "http";
 
-export default function Condition() {
+export default function Cond() {
   
   const [agr,setage]=useState(true)
 // conditional rendering using if else
